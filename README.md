@@ -11,7 +11,6 @@ Designed and developed a complete touchscreen kiosk ordering system for Sweet Sp
 **Course:** Web Development and HCI  
 **University:** British University of Bahrain  
 **Date:** November 2025  
-**Grade:** [Your grade if you want to include it]
 
 ## ✨ Key Features
 
@@ -203,11 +202,8 @@ British University of Bahrain
 
 ## 🙏 Acknowledgments
 
-- **Course Instructor:** [Instructor name if you want]
+- **Course Instructor:** Dr. Abdulhamid Ardo
 - **British University of Bahrain** - For providing resources and guidance
 - **Usability Testing Participants** - For valuable feedback
 - **Design References:** Nielsen Norman Group, ISO 9241 standards, WCAG guidelines
 
----
-
-⭐ **If you found this project interesting, please consider giving it a star!**
